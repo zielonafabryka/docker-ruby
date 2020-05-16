@@ -1,5 +1,5 @@
 FROM ruby
-MAINTAINER felixd@wp.pl
+MAINTAINER felixd@konopnickiej.com
 RUN apt-get update && apt-get install wget build-essential libc6-dev -y \
  && wget http://www.freetds.org/files/stable/freetds-1.1.36.tar.gz \
  && tar -xzf freetds-1.1.36.tar.gz \ 

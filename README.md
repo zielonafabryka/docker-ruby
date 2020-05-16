@@ -4,7 +4,7 @@
 
 To connect to SQL Server 2014 Express edition use below version
 ```
-$ export TDSVER = 7.0
+$ export TDSVER=7.0
 ```
 
 ## Author
