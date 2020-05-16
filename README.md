@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/zielonafabryka/docker-ruby.svg?branch=master)](https://travis-ci.org/zielonafabryka/docker-ruby)
+
 # Tiny TDS on Ruby Dockerfile
 
 ## Microsoft® SQL Server® 2014 Express
